@@ -19,7 +19,7 @@
 
 ---
 
-## 💻 Tecnologias que utilizo
+## 💻 Tecnologias que eu utilizo
 
 ### 🧠 Linguagens de programação:
 
