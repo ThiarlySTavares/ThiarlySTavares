@@ -1,21 +1,15 @@
-<!-- Banner de apresentação com efeito -->
+<!-- Banner com efeito Pokémon -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffcb05,3b4cca&height=200&section=header&text=Thiarly%20Santos%20Tavares&fontSize=40&fontColor=ffffff&desc=Desenvolvedor%20FullStack%20e%20Treinador%20Pokémon!&descSize=20" />
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/0KXptO3lzmUAAAAi/pokemon-pikachu.gif" width="100" />
-  <img src="https://media.tenor.com/63WBK0T0DyYAAAAi/charizard-fly.gif" width="100" />
-  <img src="https://media.tenor.com/CSox0L9Q9U8AAAAi/pokemon-gengar.gif" width="100" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=85C1E9,3b4cca&height=200&section=header&text=Thiarly%20Santos%20Tavares&fontSize=40&fontColor=ffffff&desc=Programador%20Iniciante%20e%20Apaixonado%20por%20Tecnologia!&descSize=20" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-🎓 Me chamo **Thiarly Santos Tavares**, sou desenvolvedor full stack apaixonado por programação e por batalhas Pokémon!  
-💡 Curioso por novas tecnologias, automações, jogos, IA e desafios técnicos.  
-🎮 Fã de anime, especialmente do mundo Pokémon desde criança!  
+🎓 Me chamo **Thiarly Santos Tavares**, sou um programador iniciante em constante aprendizado.  
+💡 Gosto de explorar novas tecnologias, aprender linguagens de programação e entender como as coisas funcionam por trás do código.  
+🎮 Fã de anime, especialmente do mundo Pokémon desde criança!
 
 ---
 
@@ -59,6 +53,12 @@
 ## 🧢 Pokémon Favorites
 
 <p align="center">
+  <img src="https://media.tenor.com/0KXptO3lzmUAAAAi/pokemon-pikachu.gif" width="100" />
+  <img src="https://media.tenor.com/63WBK0T0DyYAAAAi/charizard-fly.gif" width="100" />
+  <img src="https://media.tenor.com/CSox0L9Q9U8AAAAi/pokemon-gengar.gif" width="100" />
+</p>
+
+<p align="center">
   <img src="https://projectpokemon.org/images/normal-sprite/pikachu.gif" width="60" title="Pikachu"/>
   <img src="https://projectpokemon.org/images/normal-sprite/charizard.gif" width="60" title="Charizard"/>
   <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif" width="60" title="Gengar"/>
@@ -66,28 +66,3 @@
   <img src="https://projectpokemon.org/images/normal-sprite/snorlax.gif" width="60" title="Snorlax"/>
 </p>
 
-
----
-
-## 📫 Contato
-
-<p>
-  <a href="mailto:thiarly039@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/thiarly-tavares"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-## 🎁 Extra especial
-
-<p align="center">
-  <img src="https://github.com/thiarlysantostavares/thiarlysantostavares/raw/main/download.gif" width="300"/>
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/hJmDHHlEp-AAAAAi/pokemon-pikachu-waving.gif" width="120"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b4cca,ffcb05&height=100&section=footer"/>
-</p>
