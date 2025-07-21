@@ -53,16 +53,16 @@
 ## 🧢 Pokémon Favorites
 
 <p align="center">
-  <img src="https://media.tenor.com/0KXptO3lzmUAAAAi/pokemon-pikachu.gif" width="100" />
-  <img src="https://media.tenor.com/63WBK0T0DyYAAAAi/charizard-fly.gif" width="100" />
-  <img src="https://media.tenor.com/CSox0L9Q9U8AAAAi/pokemon-gengar.gif" width="100" />
+  <img src="https://media.tenor.com/63WBK0T0DyYAAAAi/charizard-fly.gif" width="100" title="Charizard X" />
+  <img src="https://media.tenor.com/ruq4CnJGPhYAAAAi/aggron-pokemon.gif" width="100" title="Aggron" />
+  <img src="https://media.tenor.com/_tVGp8XPLUoAAAAi/sceptile-pokemon.gif" width="100" title="Sceptile" />
 </p>
 
 <p align="center">
-  <img src="https://projectpokemon.org/images/normal-sprite/pikachu.gif" width="60" title="Pikachu"/>
-  <img src="https://projectpokemon.org/images/normal-sprite/charizard.gif" width="60" title="Charizard"/>
-  <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif" width="60" title="Gengar"/>
-  <img src="https://projectpokemon.org/images/normal-sprite/lucario.gif" width="60" title="Lucario"/>
-  <img src="https://projectpokemon.org/images/normal-sprite/snorlax.gif" width="60" title="Snorlax"/>
+  <img src="https://projectpokemon.org/images/normal-sprite/charizard.gif" width="60" title="Charizard X"/>
+  <img src="https://projectpokemon.org/images/normal-sprite/aggron.gif" width="60" title="Aggron"/>
+  <img src="https://projectpokemon.org/images/normal-sprite/sceptile.gif" width="60" title="Sceptile"/>
+  <img src="https://projectpokemon.org/images/normal-sprite/garchomp.gif" width="60" title="Garchomp"/>
+  <img src="https://projectpokemon.org/images/normal-sprite/dragonite.gif" width="60" title="Dragonite"/>
 </p>
 
